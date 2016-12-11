@@ -1,3 +1,5 @@
-#Tue Aug 16 14:02:53 CST 2016
 eclipse.preferences.version=1
-encoding/PlotFastQC.py=utf-8
+encoding//com/mh/domain/plot/Basic.py=utf-8
+encoding//com/mh/domain/plot/BoxPlot.py=utf-8
+encoding//com/mh/domain/plot/PlotFastQC.py=utf-8
+encoding//com/mh/domain/utils/FileOpertor.py=utf-8
